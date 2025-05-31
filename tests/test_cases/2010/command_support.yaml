@@ -42,6 +42,8 @@ supported_commands_by_ecu:
   - 014E:CLR_TIME
   - 0151:FUEL_TYP
   - 0166:MAFA,MAFA_SUP,MAFB,MAFB_SUP
+  - 7E0.012F:FLI
+  - 7E0.0131:CLR_DIST
 unsupported_commands_by_ecu:
   743:
   - 743.763.220E01|fc=1:INFINITI_ODO
