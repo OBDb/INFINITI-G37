@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     NI_VPWR: 12.96
   response: 7E804621103A2
+- expected_values:
+    NI_VPWR: 14.24
+  response: 7E804621103B2
